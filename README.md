@@ -10,10 +10,10 @@
 ```javascript
 const irene = {
   code: ["Typescript", "Javascript", "HTML", "CSS"],
-  technologies: ["Angular", "Rxjs", "NgRx, "React", "Redux", "Node", "Jest", "NestJS", "Express"],
+  technologies: ["Angular", "Rxjs", "NgRx", "React", "Redux", "Node", "Jest", "NestJS", "Express"],
   testing: ["Testing Library", "Jasmine"],
-  database: [ "MongoDB", "Mongoose", "Firebase ],
-  editors: [ "Vscode" ],
+  database: [ "MongoDB", "Mongoose", "Firebase" ],
+  editors: [ "VScode" ],
   otherTools : [ "Git", "Github", "Figma", "Photoshop", "Trello", "Slack" ],
   learnging: ["Python"],
   codeSchool: {
