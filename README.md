@@ -1,6 +1,4 @@
-<!-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="625"/> <br> -->
-
-## Who am I
+## 🐜 Who am I
 
 - 👾 Hi! I'm Irene, and I am a Full Stack Web Developer.
 - 🔭 I’ve been working on my final project from ISDI-Coders  
@@ -13,16 +11,16 @@
 const irene = {
   code: ["Typescript", "Javascript", "HTML", "CSS"],
   technologies: ["Angular", "Rxjs", "NgRx, "React", "Redux", "Node", "Jest", "NestJS", "Express"],
-  testing: ["Testing Library", "Jasmine"]
+  testing: ["Testing Library", "Jasmine"],
   database: [ "MongoDB", "Mongoose", "Firebase ],
   editors: [ "Vscode" ],
   otherTools : [ "Git", "Github", "Figma", "Photoshop", "Trello", "Slack" ],
   learnging: ["Python"],
   codeSchool: {
-                        name: "ISDI-Coders",
-                        location: "Madrid",
-                        mentor: "Alejandro Cerezo Lasne"
-                      },
+                name: "ISDI-Coders",
+                location: "Madrid",
+                mentor: "Alejandro Cerezo Lasne"
+               },
  challenge: "To write a good readme on my personal projects :_)"
 }
 ```
@@ -34,7 +32,7 @@ const irene = {
  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=airinpopcorn&layout=compact&theme=tokyonight"/>
 </p>
 
-## My Skill Set  
+## 🪄 My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
