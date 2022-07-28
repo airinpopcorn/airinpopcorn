@@ -5,7 +5,7 @@
 - 👾 Hi! I'm Irene, and I am a Full Stack Web Developer.
 - 🔭 I’ve been working on my final project from ISDI-Coders  
 - 🌱 I’m currently learning Angular
-- 📚 I'm interested in React, Flooter, Vue and much more
+- 📚 I'm interested in React, Flutter, Vue and much more
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
