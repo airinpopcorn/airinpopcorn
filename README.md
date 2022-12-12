@@ -3,21 +3,21 @@
 ## 🐜 Who am I
 
 - 👾 Hi! I'm Irene, and I am a Full Stack Web Developer.
-- 🔭 I’ve been working on my final project from ISDI-Coders  
+- 🔭 I’m working as a Frontend mobile developer  
 - 🌱 I’m currently learning Flutter
-- 📚 I'm interested in React, Swift, Kotlin and much more
+- 📚 I'm interested in Kotlin and Swift
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const irene = {
-  code: ["Typescript", "Javascript", "HTML", "CSS"],
-  technologies: ["Angular", "Rxjs", "NgRx", "React", "Redux", "Node", "Jest", "NestJS", "Express"],
+  code: ["Typescript", "Javascript", "HTML", "CSS", "Dart"],
+  technologies: ["Angular", "Rxjs", "NgRx", "React", "Redux", "Node", "Jest", "NestJS", "Express", "Flutter"],
   testing: ["Testing Library", "Jasmine"],
   database: [ "MongoDB", "Mongoose", "Firebase" ],
   editors: [ "VScode" ],
   otherTools : [ "Git", "Github", "Figma", "Photoshop", "Trello", "Slack" ],
-  learnging: ["Python"],
+  learnging: ["Python", "Kotlin"],
   codeSchool: {
                 name: "ISDI-Coders",
                 location: "Madrid",
@@ -46,12 +46,17 @@ const irene = {
 <div align="center">  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,css,html,js" />
+    <img src="https://skillicons.dev/icons?i=js,ts,dart,html" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,jest,sass" />
+    <img src="https://skillicons.dev/icons?i=flutter,react,angular" />
+  </a>
+</p>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jest,css,sass" />
   </a>
 </p>
 </div>
