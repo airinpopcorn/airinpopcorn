@@ -15,7 +15,7 @@ const irene = {
   technologies: ["Angular", "Rxjs", "NgRx", "React", "Redux", "Node", "Jest", "NestJS", "Express", "Flutter"],
   testing: ["Testing Library", "Jasmine"],
   database: [ "MongoDB", "Mongoose", "Firebase" ],
-  editors: [ "VScode" ],
+  editors: [ "VScode", "Android Studio", "Xcode" ],
   otherTools : [ "Git", "Github", "Figma", "Photoshop", "Trello", "Slack" ],
   learnging: ["Python", "Kotlin"],
   codeSchool: {
@@ -89,15 +89,19 @@ const irene = {
 <div align="center">  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,ps,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,azure,figma" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=netlify,stackoverflow,vscode" />
+    <img src="https://skillicons.dev/icons?i=stackoverflow,figma,ps" />
   </a>
 </p>  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="40" />  
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio" />
+  </a>
+</p> 
 </div>
 
 </td></tr></table>  
