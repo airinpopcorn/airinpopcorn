@@ -3,21 +3,21 @@
 ## 🐜 Who am I
 
 - 👾 Hi! I'm Irene, and I am a Full Stack Web Developer.
-- 🔭 I’m working as a Frontend mobile developer  
+- 🔭 I’m working as an iOS frontend mobile developer  
 - 🌱 I’m currently learning Flutter
-- 📚 I'm interested in Kotlin and Swift
+- 📚 I'm interested in AI
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const irene = {
-  code: ["Typescript", "Javascript", "HTML", "CSS", "Dart"],
-  technologies: ["Angular", "Rxjs", "NgRx", "React", "Redux", "Node", "Jest", "NestJS", "Express", "Flutter"],
+  code: ["Swift", "Dart", "Typescript", "Javascript", "HTML", "CSS"],
+  technologies: ["UIKit", "Flutter", "Angular", "React", "Node", "Jest", "NestJS", "Express"],
   testing: ["Testing Library", "Jasmine"],
   database: [ "MongoDB", "Mongoose", "Firebase" ],
-  editors: [ "VScode", "Android Studio", "Xcode" ],
-  otherTools : [ "Git", "Github", "Figma", "Photoshop", "Trello", "Slack" ],
-  learnging: ["Python", "Kotlin"],
+  editors: [ "VScode", "Xcode" ],
+  otherTools : [ "Git", "Github", "Photoshop" ],
+  learnging: ["Python"],
   codeSchool: {
                 name: "ISDI-Coders",
                 location: "Madrid",
@@ -51,7 +51,7 @@ const irene = {
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,react,angular" />
+    <img src="https://skillicons.dev/icons?i=swift,flutter,react,angular" />
   </a>
 </p>
   <p align="center">
@@ -68,17 +68,17 @@ const irene = {
 <div align="center">  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=js,ts,express" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,reactivex,redux,webpack" />
+    <img src="https://skillicons.dev/icons?i=nestjs,nodejs,reactivex" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb" />
+    <img src="https://skillicons.dev/icons?i=redux,webpack,mongodb" />
   </a>
 </p>
 </div>
@@ -89,7 +89,7 @@ const irene = {
 <div align="center">  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,azure,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,azure" />
   </a>
 </p>
 <p align="center">
@@ -112,7 +112,8 @@ const irene = {
 
 <a href="https://github.com/airinpopcorn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iavivas3@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irene-alonso-vivas/)  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irene-alonso-vivas/)
+[![Twitter](https://img.shields.io/badge/ElonMuskThing-0A0A0A.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/airinpopcorn) 
 
 
 
