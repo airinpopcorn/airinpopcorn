@@ -2,22 +2,20 @@
 
 ## 🐜 Who am I
 
-- 👾 Hi! I'm Irene, and I am a Full Stack Web Developer.
-- 🔭 I’m working as an iOS frontend mobile developer  
-- 🌱 I’m currently learning Flutter
-- 📚 I'm interested in AI
+- 👾 Hi! I'm Irene, and I am a Frontend Developer.
+- 🔭 I’m working as an iOS developer  
+- 🛹 I like to skate
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const irene = {
   code: ["Swift", "Dart", "Typescript", "Javascript", "HTML", "CSS"],
-  technologies: ["UIKit", "Flutter", "Angular", "React", "Node", "Jest", "NestJS", "Express"],
+  technologies: ["UIKit", "Flutter", "Angular", "React", "Node"],
   testing: ["Testing Library", "Jasmine"],
   database: [ "MongoDB", "Mongoose", "Firebase" ],
   editors: [ "VScode", "Xcode" ],
   otherTools : [ "Git", "Github", "Photoshop" ],
-  learnging: ["Python"],
   codeSchool: {
                 name: "ISDI-Coders",
                 location: "Madrid",
@@ -41,28 +39,20 @@ const irene = {
 <table align="center"><tr><td valign="top" width="33%">
 
 
-
 ### Frontend  
 <div align="center">  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,dart,html" />
+    <img src="https://skillicons.dev/icons?i=swift,flutter,dart" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,flutter,react,angular" />
-  </a>
-</p>
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jest,css,sass" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
   </a>
 </p>
 </div>
 </td><td valign="top" width="33%">
-
-
 
 ### Backend  
 <div align="center">  
@@ -73,12 +63,7 @@ const irene = {
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs,nodejs,reactivex" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redux,webpack,mongodb" />
+    <img src="https://skillicons.dev/icons?i=mongodb,nodejs" />
   </a>
 </p>
 </div>
@@ -89,19 +74,9 @@ const irene = {
 <div align="center">  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,azure" />
+    <img src="https://skillicons.dev/icons?i=git,github" />
   </a>
 </p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=stackoverflow,figma,ps" />
-  </a>
-</p>  
- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio" />
-  </a>
-</p> 
 </div>
 
 </td></tr></table>  
