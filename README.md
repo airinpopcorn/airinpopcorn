@@ -1,39 +1,40 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=macondo&size=48&color=67FFE4FF&center=true&vCenter=true&width=1000&height=80&lines=<Hello+Coders/>)](https://git.io/typing-svg)
-
 ## 🐜 Who am I
 
-- 👾 Hi! I'm Irene, and I am a Frontend Developer.
-- 🔭 I’m working as an iOS developer  
+- 👾 Hi! I'm Irene, and I am an iOS developer.
 - 🛹 I like to skate
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const irene = {
-  code: ["Swift", "Dart", "Typescript", "Javascript", "HTML", "CSS"],
-  technologies: ["UIKit", "Flutter", "Angular", "React", "Node"],
-  testing: ["Testing Library", "Jasmine"],
-  database: [ "MongoDB", "Mongoose", "Firebase" ],
-  editors: [ "VScode", "Xcode" ],
-  otherTools : [ "Git", "Github", "Photoshop" ],
-  codeSchool: {
-                name: "ISDI-Coders",
-                location: "Madrid",
-                mentor: "Alejandro Cerezo Lasne"
-               },
- challenge: "To write a good readme on my personal projects :_)"
+```swift
+class Irene {
+  let profession: String = "iOS Engineer & Developer"
+  let experience: CGFloat = 3 
+  let focus: [String] = ["User Experience", "Optimized Code", "Scalability"]
+    
+  let currentJob = "Developer at Accenture (El Corte Inglés)"
+  let currentTasks: [String] = ["VIP Architecture", "Legacy Code Migration", "Technological Modernization"]
+  let futureGoals: [String] = ["Migration from UIKit to SwiftUI", "Transition Documentation"]
+    
+  let mainStack: [String] = ["Swift", "UIKit", "SwiftUI"]
+  let additionalMobileTechnologies: [String] = ["Flutter", "Dart"]
+  let webTechnologies: [String] = ["HTML", "CSS", "TypeScript"]
+    
+  let testingTools: [String] = ["XCTest", "Testing Library", "Jasmine"]
+  let databases: [String] = ["MongoDB", "Firebase"]
+  let editors: [String] = ["Xcode", "VSCode"]
+  let otherTools: [String] = ["Git", "GitHub", "Photoshop", "Figma", "Bitbucket"]
+    
+  struct CodeSchool {
+    let name: String = "ISDI-Coders"
+    let location: String = "Madrid"
+    let mentor: String = "Alejandro Cerezo Lasne"
+  }
+    
+  let challenge: String = "Write a good README for my personal projects :_)"
 }
 ```
 
-## 📈 My github stats
-
-<p align="center">
- <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=airinpopcorn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=airinpopcorn&layout=compact&theme=tokyonight"/>
-</p>
-
 ## 🪄 My Skill Set  
-
 
 
 <table align="center"><tr><td valign="top" width="33%">
@@ -80,7 +81,6 @@ const irene = {
 </div>
 
 </td></tr></table>  
-
 
 
 ## 📫 How to reach me 
